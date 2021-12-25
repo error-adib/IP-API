@@ -21,7 +21,7 @@ while con:
     user = input("error >> ")
 
     if user=='ip':
-        print(f"Your Public IP is: {ip}")
+        print("Your Public IP is: ", ip)
     
     elif user=='about':
         print("No INFO TO SHOW")
